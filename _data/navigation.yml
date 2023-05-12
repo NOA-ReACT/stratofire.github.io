@@ -1,5 +1,5 @@
 main:
-   - title: "Science"
+  - title: "Science"
     url: /science/
   - title: "Results"
     url: /results/
