@@ -10,8 +10,6 @@ header:
 excerpt: "Fire smoke in the stratosphere: a new climate forcer"
 intro: 
   - excerpt: 'Large-scale wildfires have been making global headlines over the recent years, highlighting the importance of fire and its feedback within the Earth System. The most extreme manifestation of a fire-weather interaction is the formation of pyrocumulonimbus (pyroCb) thunderstorms, which under particulalr conditions can inject smoke, ice and greenhouse-relevant gases deep in the stratosphere, of total burden comparable to mid-sized volcanoes.'
-intro2: 
-  - excerpt:
   'In this [ELIDEK project](https://www.elidek.gr/en/homepage/), we will explore whether machine-earning based emulators are capable of not only reproducing European carbon fluxes from the JULES land surface model but going beyond this and providing a means to derive a novel observation-driven dataset of GPP, built on the existing process-level understanding within the model.'
 feature_row:
   - image_path: assets/images/question1.jpg
@@ -31,7 +29,6 @@ feature_row:
 
 
 {% include feature_row id="intro" type="center" %}
-{% include feature_row id="intro2" type="center" %}
 
 {% include feature_row %}
 
