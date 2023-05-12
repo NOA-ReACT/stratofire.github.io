@@ -1,27 +1,27 @@
 ---
-title: "ESA-IMITATE"
+title: "StratoFIRE"
 layout: splash
 permalink: /
 date: 2023-05-12T11:48:41
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/globe2.jpg
-excerpt: "Introducing Machine-learning Into Targeted Analysis for Terrestrial Ecosystems"
+  overlay_image: /assets/images/080819_ms_cloudsmoke_feat.jpg
+excerpt: "Fire smoke in the stratosphere: a new climate forcer"
 intro: 
-  - excerpt: 'In this [ESA project](https://eo4society.esa.int/projects/imitate/), we will explore whether machine-earning based emulators are capable of not only reproducing European carbon fluxes from the JULES land surface model but going beyond this and providing a means to derive a novel observation-driven dataset of GPP, built on the existing process-level understanding within the model.'
+  - excerpt: 'In this [ELIDEK project](https://www.elidek.gr/en/homepage/), we will explore whether machine-earning based emulators are capable of not only reproducing European carbon fluxes from the JULES land surface model but going beyond this and providing a means to derive a novel observation-driven dataset of GPP, built on the existing process-level understanding within the model.'
 feature_row:
   - image_path: assets/images/forest.jpg
     alt: "placeholder image 1"
     title: "Question 1"
-    excerpt: "How well can machine learning methods emulate physical process-based land surface models, focused over Europe?"
+    excerpt: "What is the contribution of smoke in the interannual variability of stratospheric aerosols?"
   - image_path: assets/images/globe1.jpg
     alt: "placeholder image 2"
     title: "Question 2"
-    excerpt: "Can explainable AI techniques provide new insights into process understanding when combining land surface models and Earth Observation data?"
+    excerpt: "What are the optical and microphysical properties of stratospheric smoke?"
   - image_path: /assets/images/satellite.jpg
     title: "Question 3"
-    excerpt: "Are the learnt relationships between the modelled inputs and outputs consistent with those from Earth Observation data?"
+    excerpt: "What is the net radiative effect of stratospheric smoke and its impact on stratospheric heating?"
 ---
 
 

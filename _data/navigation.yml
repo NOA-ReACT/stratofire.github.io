@@ -5,6 +5,8 @@ main:
     url: /science/
   - title: "Results"
     url: /results/
+  - title: "WP1"
+    url: /results/wp1
   - title: "Team"
     url: /team/
   - title: "News"
