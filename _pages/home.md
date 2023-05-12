@@ -13,7 +13,7 @@ intro:
 
   In this [ELIDEK project](https://www.elidek.gr/en/homepage/), we will explore whether machine-earning based emulators are capable of not only reproducing European carbon fluxes from the JULES land surface model but going beyond this and providing a means to derive a novel observation-driven dataset of GPP, built on the existing process-level understanding within the model.'
 feature_row:
-  - image_path: assets/images/forest.jpg
+  - image_path: assets/images/question1.jpg
     alt: "placeholder image 1"
     title: "Question 1"
     excerpt: "What is the contribution of smoke in the interannual variability of stratospheric aerosols?"
