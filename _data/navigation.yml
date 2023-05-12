@@ -1,7 +1,9 @@
 main:
-  - title: "Home"
-    url: /
-  - title: "Team"
-    url: /team/
+   - title: "Science"
+    url: /science/
   - title: "Results"
     url: /results/
+  - title: "Team"
+    url: /team/
+  - title: "News"
+    url: /news/
