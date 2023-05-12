@@ -8,12 +8,12 @@ header:
   overlay_image: /assets/images/noa-react.png
 permalink: /team/
 team_members:
-  - image_path: assets/images/rob.png
+  - image_path: assets/images/vassilis_ amoiridis.jpg
     alt: "placeholder image 1"
     title: '<center>Dr Vassilis Amiridis</center>'
     excerpt: "<center>Project Lead <br /> NOA-ReaCT</center>"
 
-  - image_path: /assets/images/cristina.png
+  - image_path: /assets/images/misios_ stergios.png
     alt: "placeholder image 2"
     title: "<center>Dr Stergios Misios</center>"
     excerpt: "<center>Project Scientist <br /> NOA-ReACT</center>"
@@ -28,7 +28,7 @@ team_members:
     title: "<center>Dr Konstantinos Rizos</center>"
     excerpt: "<center>Project Scientist <br /> NCEO-Reading</center>"
 
-  - image_path: /assets/images/natalie.png
+  - image_path: /assets/images/ktsigaridis.jpg
     alt: "placeholder image 4"
     title: "<center>Dr Konstantinos Tsigaridis</center>"
     excerpt: "<center>Project Expert <br /> NASA-GISS</center>"
