@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "<center>Meet The Team</center>"
+title: "<center>Meet the team</center>"
 layout: single
 header:
   overlay_color: "#000"
@@ -23,10 +23,10 @@ team_members:
     title: "<center>Dr Andreas Chrysanthou</center>"
     excerpt: "<center>Project Scientist  <br /> NOA-ReACT</center>"
 
-  - image_path: /assets/images/natalie.png
+  - image_path: /assets/images/rizos_pic.jpg
     alt: "placeholder image 4"
-    title: "<center>Dr Konstantinos Rizos</center>"
-    excerpt: "<center>Project Scientist <br /> NCEO-Reading</center>"
+    title: "<center>Konstantinos Rizos</center>"
+    excerpt: "<center>Project Scientist <br /> NOA-ReACT</center>"
 
   - image_path: /assets/images/ktsigaridis.jpg
     alt: "placeholder image 4"
