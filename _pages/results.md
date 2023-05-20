@@ -15,7 +15,7 @@ Progress Reports
 
 # WP2: Data collection from multiple sources (ground-based and space-borne)
 D2.1: Inventory of stratospheric layers related to extreme pyroconvective events. 
-D2.2: Database of satellite-based observations of stratospheric smoke layers. 
+D2.2: Database of satellite-based observations of stratospheric smoke layers
 D2.3: Database of ground-based observations of stratospheric smoke layers
 
 # WP3: Wildfire Emissions
