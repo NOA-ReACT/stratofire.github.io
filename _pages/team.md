@@ -18,7 +18,7 @@ team_members:
     title: "<center>Dr Stergios Misios</center>"
     excerpt: "<center>Project Scientist <br /> NOA-ReACT</center>"
 
-  - image_path: /assets/images/tristan.png
+  - image_path: /assets/images/andreas.jpg
     alt: "placeholder image 1"
     title: "<center>Dr Andreas Chrysanthou</center>"
     excerpt: "<center>Project Scientist  <br /> NOA-ReACT</center>"
