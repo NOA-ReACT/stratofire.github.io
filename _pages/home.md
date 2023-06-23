@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/080819_ms_cloudsmoke_feat.jpg
 excerpt: "Fire smoke in the stratosphere: a new climate forcer"
 intro: 
-  - excerpt: 'The most extreme manifestation of a fire-weather interaction is the formation of **pyrocumulonimbus (pyroCb)** thunderstorms, which under particulalr conditions can inject smoke, ice and greenhouse-relevant gases deep in the stratosphere, of total burden comparable to mid-sized volcanoes.
+  - excerpt: 'The most extreme manifestation of a fire-weather interaction is the formation of **pyrocumulonimbus (pyroCb)** thunderstorms, which under particulalr conditions can inject smoke, ice and greenhouse-relevant gases deep in the **stratosphere**, of total burden comparable to mid-sized volcanoes.
 
 
    **Strato**<span style="color:red">**FIRE**</span> will highlight the role of extreme pyroCb emissions in the stratosphere as a new short-lived climate forcer.'

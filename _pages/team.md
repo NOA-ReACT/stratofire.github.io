@@ -8,18 +8,18 @@ header:
   overlay_image: /assets/images/noa-react.png
 permalink: /team/
 team_members:
-  - image_path: assets/images/vassilis_ amoiridis.jpg
-    alt: "placeholder image 1"
+  - image_path: assets/images/vassilis_amoiridis.jpg
+    alt: "Vassilis"
     title: '<center>Dr Vassilis Amiridis</center>'
     excerpt: "<center>Project Lead <br /> NOA-ReaCT</center>"
 
-  - image_path: /assets/images/misios_ stergios.png
-    alt: "placeholder image 2"
+  - image_path: /assets/images/misios_stergios.png
+    alt: "Stergios"
     title: "<center>Dr Stergios Misios</center>"
     excerpt: "<center>Project Scientist <br /> NOA-ReACT</center>"
 
   - image_path: /assets/images/andreas.jpg
-    alt: "placeholder image 1"
+    alt: "Andreas"
     title: "<center>Dr Andreas Chrysanthou</center>"
     excerpt: "<center>Project Scientist  <br /> NOA-ReACT</center>"
 

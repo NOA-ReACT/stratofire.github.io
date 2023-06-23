@@ -31,7 +31,7 @@ StratoFIRE:
 Stergios Misios:
   name        : "Stergios Misios"
   bio         : ""
-  avatar      : "/assets/images/logo2.png"
+  avatar      : "/assets/images/misios_stergios.png"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
