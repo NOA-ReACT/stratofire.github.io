@@ -22,7 +22,7 @@ feature_row:
     excerpt: "What is the net radiative effect of stratospheric smoke and its impact on stratospheric heating?"
 ---
 
-**Strato**<span style="color:red">**FIRE**</span> produced this short video teaser.
+**Strato**<span style="color:red">**FIRE**</span> produced this short video teaser...
 {% include video id="Bp0Jl1k-LVQ" provider="youtube" %}
 
 **Climate modelling**
