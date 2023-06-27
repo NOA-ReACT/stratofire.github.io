@@ -26,11 +26,8 @@ feature_row:
 {% include video id="Bp0Jl1k-LVQ" provider="youtube" %}
 
 **Climate modelling**
-
-**Fusion of observations with modelling**
-
-to significantly reduced uncertainties related to smoke emissions: To date, only indirect methods are available to estimate smoke emission rates. Space-bone and ground-based observations provide information generally with some temporal and spatial distance from the source of the fire. In StratoFIRE we aim to apply an innovative inversion algorithm to largely improve the quantitative predictions of smoke emissions and injection heights near the tropopause.
+**Strato**<span style="color:red">**FIRE**</span> will fuse observations with modelling to significantly reduced uncertainties related to smoke emissions. To date, only indirect methods are available to estimate smoke emission rates. Space-bone and ground-based observations provide information generally with some temporal and spatial distance from the source of the fire. In StratoFIRE we aim to apply an innovative inversion algorithm to largely improve the quantitative predictions of smoke emissions and injection heights near the tropopause.
 
 
 **Global climate modelling for assessing climatic impacts**
-There is a shortage of studies with global climate models. StratoFIRE makes use of a comprehensive climate-aerosol-chemistry model (EMAC/MESSy), that participated in the CMIP6 Intercomparison, to assess with tailor-make simulations the significance of the plethora of proposed climatic impacts. We go beyond the conventional understanding of particles shape and we put into a thorough examination global effects related to the hypothesis of near-sphericity. For the first time, we quantify the semi-direct effect, atmospheric circulation and surface fluxes changes in relation to smoke injection so as to provide a complete assessment of the short-term climate signatures.
+There is a shortage of studies with global climate models. **Strato**<span style="color:red">**FIRE**</span> makes use of a comprehensive climate-aerosol-chemistry model (EMAC/MESSy), that participated in the CMIP6 Intercomparison, to assess with tailor-make simulations the significance of the plethora of proposed climatic impacts. We go beyond the conventional understanding of particles shape and we put into a thorough examination global effects related to the hypothesis of near-sphericity. For the first time, we quantify the semi-direct effect, atmospheric circulation and surface fluxes changes in relation to smoke injection so as to provide a complete assessment of the short-term climate signatures.
