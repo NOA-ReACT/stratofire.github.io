@@ -18,13 +18,22 @@ feature_row:
     alt: "placeholder image 1"
     title: "Question 1"
     excerpt: "What is the contribution of smoke in the interannual variability of stratospheric aerosols?"
+    url: "/q1-page/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: assets/images/question2.jpg
     alt: "placeholder image 2"
     title: "Question 2"
     excerpt: "What are the optical and microphysical properties of stratospheric smoke?"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /assets/images/question3.jpg
     title: "Question 3"
     excerpt: "What is the net radiative effect of stratospheric smoke and its impact on stratospheric heating?"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 
@@ -34,6 +43,7 @@ feature_row:
 
 
 **Strato**<span style="color:red">**FIRE**</span> is an [ELIDEK project](https://www.elidek.gr/en/homepage/) of the [ReACT team](https://react.space.noa.gr/) at the [National Observatory of Athens](https://www.noa.gr/). In next three years **(2022-2025)** the project will: 
+
 
 * provide all necessary breakthroughs regarding our understanding of properties, lifetime and impact of smoke particles 
 * develop sophisticated inversion techniques initialized by observations to calculate emissions in the stratosphere

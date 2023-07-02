@@ -18,10 +18,25 @@ team_members:
     title: "<center>Dr Stergios Misios</center>"
     excerpt: "<center>Project Scientist <br /> NOA-ReACT</center>"
 
+  - image_path: /assets/images/eleni-drakaki.jpg
+    alt: "Eleni"
+    title: "<center> Eleni Drakaki</center>"
+    excerpt: "<center>Project Scientist <br /> NOA-ReACT</center>"
+
+  - image_path: /assets/images/alexandra_tsekeri.jpg
+    alt: "Alexandra"
+    title: "<center> Alexandra Tsekeri</center>"
+    excerpt: "<center>Project Scientist <br /> NOA-ReACT</center>"
+
   - image_path: /assets/images/andreas.jpg
     alt: "Andreas"
     title: "<center>Dr Andreas Chrysanthou</center>"
     excerpt: "<center>Project Scientist  <br /> NOA-ReACT</center>"
+  
+  - image_path: /assets/images/anna_gialitaki.jpg
+    alt: "Anna"
+    title: "<center> Anna Gialitaki</center>"
+    excerpt: "<center>Project Scientist <br /> NOA-ReACT</center>"
 
   - image_path: /assets/images/rizos_pic.jpg
     alt: "placeholder image 4"
