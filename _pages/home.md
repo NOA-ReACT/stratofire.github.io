@@ -42,13 +42,13 @@ feature_row:
 {% include feature_row %}
 
 
-**Strato**<span style="color:red">**FIRE**</span> is an [ELIDEK project](https://www.elidek.gr/en/homepage/) of the [ReACT team](https://react.space.noa.gr/) at the [National Observatory of Athens](https://www.noa.gr/). In next three years **(2022-2025)** the project will: 
+**Strato**<span style="color:red">**FIRE**</span> is an [ELIDEK project](https://www.elidek.gr/en/homepage/), Project number H.F.R.I.: 3995., funded under the 2nd Call for H.F.R.I.’s Research Projects to Support Faculty Members & Researchers. The [ReACT team](https://react.space.noa.gr/) at the [National Observatory of Athens](https://www.noa.gr/) is leading the project. 
 
-
+In next three years **(2022-2025)** the project will: 
 * provide all necessary breakthroughs regarding our understanding of properties, lifetime and impact of smoke particles 
 * develop sophisticated inversion techniques initialized by observations to calculate emissions in the stratosphere
 * calculate the global and regional radiative forcing of pyroCbs 
 * simulate heterogenous chemistry in the smoke plume with a global climate model
 
-**Strato**<span style="color:red">**FIRE**</span> will connect extreme wildfires, smoke and global climate.
-
+## **Strato**<span style="color:red">**FIRE**</span> will connect extreme wildfires, smoke and global climate.
+ 
