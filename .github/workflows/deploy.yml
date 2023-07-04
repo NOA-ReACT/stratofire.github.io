@@ -12,12 +12,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3.5.3
 
-      - name: Mark github workspace as safe
-        run: |
-          git config --global --add safe.directory /github/workspace
-      
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+
       - name: Build
-        uses: jerryjvl/jekyll-build-action@v1
+        uses: actions/jekyll-build-pages@v1
 
       - name: Push website build to webserver
         run: scp -P 25522 -r _site/ sftp@webserver.react.internal:/var/www/stratofire/
