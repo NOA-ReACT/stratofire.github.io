@@ -1,0 +1,22 @@
+name: Deploy website
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+
+jobs:
+  build_deploy:
+    runs-on: self-hosted
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3.5.3
+
+      - name: Build
+        uses: actions/jekyll-build-pages@v1
+
+      - name: Push website build to webserver
+        run: scp -P 25522 -r _site/ sftp@webserver.react.internal:/var/www/stratofire/
+
+      - name: Make deploy
+        run: ssh -p 25522 sftp@webserver.react.internal "cd /var/www/stratofire && rm -rf public.old; mv public/ public.old && mv _site/ public/ && chgrp -R webmasters public/"
