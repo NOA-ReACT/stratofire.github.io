@@ -23,7 +23,7 @@ feature_row:
 ---
 
 # What is a pyroCb?
-Wildfires can become so intense that they produce thunderstorms.  This phenomenon of fire-triggered thunderstorms is called pyroCbs, which is short for pyrocumulonimbus clouds or cumulonimbus flammagenitus.  Cumulonimbus flammagenitus stems from the Latin words meaning “flame” and “created from.” 
+Wildfires can become so intense that they produce thunderstorms.  This phenomenon of fire-triggered thunderstorms is called pyroCbs, which is short for pyrocumulonimbus clouds or cumulonimbus flammagenitus.  Cumulonimbus flammagenitus stems from the Latin words meaning “flame” and “created from. ” 
 
 While the exact physics behind these fire-triggered thunderstorms is still unclear, pyroCbs are triggered by the uplift of ash, smoke, and burning materials via super-heated updrafts.  Wildfire flames release enough heat and moisture into the atmosphere to produce thunderstorms. As these materials cool, clouds are formed that behave like traditional thunderstorms but without the accompanying precipitation. 
 
