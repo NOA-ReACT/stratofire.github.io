@@ -18,20 +18,20 @@ feature_row:
     alt: "placeholder image 1"
     title: "Question 1"
     excerpt: "What is the contribution of smoke in the interannual variability of stratospheric aerosols?"
-    url: "/q1-page/"
+    url: "/_pages/q1-page/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: assets/images/question2.jpg
     alt: "placeholder image 2"
     title: "Question 2"
     excerpt: "What are the optical and microphysical properties of stratospheric smoke?"
-    url: "#test-link"
+    url: "/_pages/q2-page/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/question3.jpg
     title: "Question 3"
     excerpt: "What is the net radiative effect of stratospheric smoke and its impact on stratospheric heating?"
-    url: "#test-link"
+    url: "/_pages/q3-page/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
