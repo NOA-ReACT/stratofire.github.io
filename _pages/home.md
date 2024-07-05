@@ -18,7 +18,7 @@ feature_row:
     alt: "placeholder image 1"
     title: "Question 1"
     excerpt: "What is the contribution of smoke in the interannual variability of stratospheric aerosols?"
-    url: "/_pages/q1-page/"
+    url: "_pages/q1-page/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: assets/images/question2.jpg
