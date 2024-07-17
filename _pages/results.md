@@ -15,7 +15,7 @@ header:
 # WP1: Management and Dissemination
 Annual Progress Reports
 [Report 12 months](/assets/deliverables/StratoFIRE_report_month12.pdf){: .btn .btn--success}
-[Report 24 months](#link){: .btn .btn--success}
+[Report 24 months](/assets/deliverables/StratoFIRE_D1.1_month24.pdf){: .btn .btn--success}
 
 # WP2: Data collection from multiple sources (ground-based and space-borne)
 D2.1: Inventory of stratospheric layers related to extreme pyroconvective events.
@@ -42,7 +42,7 @@ D4.1 Microphysical and optical properties of stratospheric smoke.
 [Report](/assets/deliverables/StratoFIRE_D4.1.pdf){: .btn .btn--success}
 
 D4.2 Report/paper on the radiative properties of stratospheric smoke, along with a sensitivity analysis due to the uncertainties of the optical properties of the particles used in the calculations.
-[Report](#link){: .btn .btn--success}
+[Report](/assets/deliverables/StratoFIRE_D4.2.pdf){: .btn .btn--success}
 
 D4.3 Report/paper on the validation of results of D4.2 using radiation measurements at the ground and at the TOA. Validation of the heat fluxes provided in D4.2 using temperature profiles.
 
@@ -51,6 +51,6 @@ D5.1 Global simulations inventory of Task 5.1.
 [Database](/assets/deliverables/StratoFIRE_D5.1.pdf){: .btn .btn--success}
 
 D5.2 Report/paper on the global radiative forcing of selected stratospheric smoke injections.
-[Report](#link){: .btn .btn--success}
+[Report](/assets/deliverables/StratoFIRE_D5.2.pdf){: .btn .btn--success}
 
 D5.3 Report/paper on the climatic relevance of smoke injections in the stratosphere.
