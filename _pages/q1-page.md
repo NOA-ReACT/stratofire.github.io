@@ -12,4 +12,4 @@ Although the stratosphere constitutes only a small fraction of the atmospheric m
 
 Earlier research has broadly considered two major aerosol sources in the stratosphere, namely the direct injection of ash and sulphates by volcanic eruptions and the isentropic transport of carbonyl sulfide. Recent discoveries about the injection of aerosols and aerosol-precursors directly into the LS through deep pyroconvection have spotlighted a new semi-seasonal source of non-volcanic aerosols and a new forcing agent, previously not properly considered. 
 
-**Strato**<span style="color:red">**FIRE**</span> will narrow the uncertainties in stratospheric aerosol variability and its effects on the atmosphere and climate, an objective at the forefront of modern aerosol research.
+>**Strato**<span style="color:red">**FIRE**</span> will narrow the uncertainties in stratospheric aerosol variability and its effects on the atmosphere and climate, an objective at the forefront of modern aerosol research.

@@ -22,10 +22,12 @@ D2.1: Inventory of stratospheric layers related to extreme pyroconvective events
 [Report](/assets/deliverables/StratoFIRE_D2.1.pdf){: .btn .btn--success}
 
 D2.2: Database of satellite-based observations of stratospheric smoke layers
-[Data](/assets/deliverables/StratoFIRE_D2.2.pdf){: .btn .btn--success}
+[Report](/assets/deliverables/StratoFIRE_D2.2.pdf){: .btn .btn--success}
+[Database](#link){: .btn .btn--success}
 
 D2.3: Database of ground-based observations of stratospheric smoke layers
-[Data](#link){: .btn .btn--success}
+[Report](/assets/deliverables/StratoFIRE_D2.3.pdf){: .btn .btn--success}
+[Database](#link){: .btn .btn--success}
 
 # WP3: Wildfire Emissions
 D3.1: Report of the injection heights of stratospheric smoke for selected events.
@@ -37,7 +39,7 @@ D3.3: Report on the evaluation of FLEXPART with passive and active sensors from 
 
 # WP4: Optical and microphysical characterization and radiative impact on specific cases
 D4.1 Microphysical and optical properties of stratospheric smoke.
-[Report](#link){: .btn .btn--success}
+[Report](/assets/deliverables/StratoFIRE_D4.1.pdf){: .btn .btn--success}
 
 D4.2 Report/paper on the radiative properties of stratospheric smoke, along with a sensitivity analysis due to the uncertainties of the optical properties of the particles used in the calculations.
 [Report](#link){: .btn .btn--success}
@@ -46,7 +48,7 @@ D4.3 Report/paper on the validation of results of D4.2 using radiation measureme
 
 # WP5: Global Impact of stratospheric smoke
 D5.1 Global simulations inventory of Task 5.1.
-[Data](#link){: .btn .btn--success}
+[Database](/assets/deliverables/StratoFIRE_D5.1.pdf){: .btn .btn--success}
 
 D5.2 Report/paper on the global radiative forcing of selected stratospheric smoke injections.
 [Report](#link){: .btn .btn--success}
