@@ -34,8 +34,10 @@ D3.1: Report of the injection heights of stratospheric smoke for selected events
 [Report](/assets/deliverables/StratoFIRE_D3.1.pdf){: .btn .btn--success}
 
 D3.2: Report/paper of the stratospheric smoke emission inventories for selected cases. 
+[Report](/assets/deliverables/StratoFIRE_D5.2.pdf){: .btn .btn--success}
 
 D3.3: Report on the evaluation of FLEXPART with passive and active sensors from space.
+[Report](/assets/deliverables/StratoFIRE_D5.2.pdf){: .btn .btn--success}
 
 # WP4: Optical and microphysical characterization and radiative impact on specific cases
 D4.1 Microphysical and optical properties of stratospheric smoke.
@@ -45,6 +47,7 @@ D4.2 Report/paper on the radiative properties of stratospheric smoke, along with
 [Report](/assets/deliverables/StratoFIRE_D4.2.pdf){: .btn .btn--success}
 
 D4.3 Report/paper on the validation of results of D4.2 using radiation measurements at the ground and at the TOA. Validation of the heat fluxes provided in D4.2 using temperature profiles.
+[Report](/assets/deliverables/StratoFIRE_D5.2.pdf){: .btn .btn--success}
 
 # WP5: Global Impact of stratospheric smoke
 D5.1 Global simulations inventory of Task 5.1.
@@ -54,3 +57,4 @@ D5.2 Report/paper on the global radiative forcing of selected stratospheric smok
 [Report](/assets/deliverables/StratoFIRE_D5.2.pdf){: .btn .btn--success}
 
 D5.3 Report/paper on the climatic relevance of smoke injections in the stratosphere.
+[Report](/assets/deliverables/StratoFIRE_D5.2.pdf){: .btn .btn--success}
